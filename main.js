@@ -8,7 +8,7 @@ if (localStorage.getItem("arraykey")!=null){
     showdata()
 }
 
-console.log(localStorage.getItem("arraykey", JSON.stringify(arrUrl)))
+
 showdata()
 
 
